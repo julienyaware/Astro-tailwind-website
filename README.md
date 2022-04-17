@@ -38,6 +38,17 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`   | Build your production site to `./dist/`      |
 | `npm run preview` | Preview your build locally, before deploying |
 
-## 👀 Want to learn more?
+## 👀 Tools Used
 
-Feel free to check [our documentation](https://github.com/withastro/astro) or jump into our [Discord server](https://astro.build/chat).
+Astro - Static site builder
+
+Tailwind CSS for styling
+
+## 👀 What to expect?
+
+Feel free to view the simple website using this link[deployed website](https://darling-stroopwafel-6e12e8.netlify.app/).
+
+![image](https://user-images.githubusercontent.com/13431164/163695076-f5ebabca-f216-4263-be3f-69cd3009d642.png)
+![image](https://user-images.githubusercontent.com/13431164/163695088-fdc72665-5375-4294-b6e1-5c07bc117c9d.png)
+
+
